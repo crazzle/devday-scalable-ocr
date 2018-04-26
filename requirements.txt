@@ -1,0 +1,9 @@
+jupyter==1.0.0
+jupyterlab==0.32.0
+matplotlib==2.2.2
+pyocr==0.5
+numpy==1.14.0
+opencv-python==3.4.0.12
+tensorflow==1.5
+keras==2.1.3
+h5py==2.7.1
